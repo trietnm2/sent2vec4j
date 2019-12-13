@@ -1,4 +1,4 @@
-# Sen2Vec4j
+# Sent2Vec4j
 
 Java port of C++ version of Facebook Research [fastText][fasttext].
 
